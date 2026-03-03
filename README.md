@@ -9,4 +9,4 @@ The project focused on building a smart web-based solution for real-world proble
 📌 For more details about the hackathon experience, pitch deck, and final demo,
 check out my Instagram post 👇
 
-👉 https://www.instagram.com/horse.4990025?utm_source=qr&igsh=ZGNtaXY4dnE0dHgy
+👉 https://www.instagram.com/horse.4990025?utm_source=qr&igsh=ZGNtaXY4dnE0dHgy 
